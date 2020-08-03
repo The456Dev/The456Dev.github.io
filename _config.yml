@@ -30,7 +30,7 @@ twitter_username: The456gamer
 github_username:  The456gamer
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
   - "jekyll-github-metadata"
